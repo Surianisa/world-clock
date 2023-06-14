@@ -39,7 +39,7 @@ function updateTime() {
 updateTime();
 setInterval(updateTime, 1000);
 let intervalID=0;
-function updateCity(event){
+function updateCity(event) {
   
 clearInterval(intervalID);
   intervalID = setInterval(() => {

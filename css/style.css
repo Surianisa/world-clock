@@ -67,6 +67,12 @@ h2 {
 .time small {
   font-size: 12px;
 }
+
+.all-cities > a {
+  color: white;
+  float: right;
+  margin-top: 2px;
+}
 footer {
   font-size: 13px;
   margin-top: 10px;
